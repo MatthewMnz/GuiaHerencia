@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|solutionrelative:herencia\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\herencia\\basicphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|solutionrelative:herencia\\basicphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\herencia\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|solutionrelative:herencia\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\herencia\\basicphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC07AE6-9BE3-4B76-B6E7-1FA8E7E1B5A6}|Herencia\\Herencia.csproj|solutionrelative:herencia\\basicphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BasicPhone.cs",
               "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\Herencia\\BasicPhone.cs",
               "RelativeDocumentMoniker": "Herencia\\BasicPhone.cs",
@@ -38,11 +38,12 @@
               "RelativeToolTip": "Herencia\\BasicPhone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T03:03:11.569Z"
+              "WhenOpened": "2024-05-20T03:03:11.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SmartPhone.cs",
               "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\Herencia\\SmartPhone.cs",
               "RelativeDocumentMoniker": "Herencia\\SmartPhone.cs",
@@ -50,7 +51,8 @@
               "RelativeToolTip": "Herencia\\SmartPhone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T03:00:53.353Z"
+              "WhenOpened": "2024-05-20T03:00:53.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +64,8 @@
               "RelativeToolTip": "Herencia\\Phone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T02:54:44.314Z"
+              "WhenOpened": "2024-05-20T02:54:44.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +75,7 @@
               "RelativeDocumentMoniker": "Herencia\\Program.cs",
               "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\GuiaHerencia\\Herencia\\Herencia\\Program.cs",
               "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowBgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T02:52:06.906Z",
               "EditorCaption": ""
